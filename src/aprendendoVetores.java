@@ -1,5 +1,5 @@
 
-public class Atividade02 {
+public class aprendendoVetores {
     public static void main(String[] args) {
 
         int votoPessoa1 = 10;
