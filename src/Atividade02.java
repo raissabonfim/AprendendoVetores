@@ -23,5 +23,13 @@ public class Atividade02 {
         votos[1] = 10;
         votos[9] = 90;
 
+        tring[]nomes = new String[5];
+
+        Scanner entrada = new Scanner(System.in);
+        nomes[0] = entrada.next();
+        System.out.println("O primeiro nome é: "+ nomes[0]);
+
+        double[] valores = {5.5, 10.9, 99, 75};
+
     }
 }
